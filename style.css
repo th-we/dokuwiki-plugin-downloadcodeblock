@@ -1,0 +1,10 @@
+#dokuwiki__content pre.code {
+  clear: both;
+}
+
+button.downloadcodeblock {
+  float: right;
+  margin-top: -1em;
+  /* Mimic the default style used for secedit buttons */
+  font-size: 75%;
+}

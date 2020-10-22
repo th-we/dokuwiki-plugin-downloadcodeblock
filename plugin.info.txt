@@ -1,0 +1,7 @@
+base   downloadcodeblock
+author Thomas Weber
+email  tw@notabit.eu
+date   2020-10-22
+name   Code block download
+desc   Adds buttons to download code blocks
+url    https://github.org/th-we/downloadcodeblock
